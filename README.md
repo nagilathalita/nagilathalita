@@ -1,87 +1,61 @@
-<div align="center">
-
-# 🌸 Olá, eu sou Nágila Thalita!
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9A8C2,50:F9DFE9,100:D4AF37&height=95&section=header" width="100%" alt="Faixa rosa e dourada" /><div align="center">🌸 Olá, eu sou Nágila Thalita!
 💻 Estudante de Engenharia de Software
 🐾 Médica Veterinária em transição para Tecnologia
 📍 Mossoró - RN | Brasil
 
 ✨ Apaixonada por tecnologia, programação e aprendizado contínuo.
+</div>👩‍💻 Sobre mim
+Sou técnica em Redes de Computadores e formada em Medicina Veterinária pela UFERSA.
+Após anos atuando na área da saúde, descobri minha paixão por programação e tecnologia.
 
-</div>
+Atualmente curso Engenharia de Software e venho me dedicando intensamente ao aprendizado e desenvolvimento de projetos na área de tecnologia.
 
----
-
-## 👩‍💻 Sobre mim
-
-Sou técnica em **Redes de Computadores** e formada em **Medicina Veterinária pela UFERSA**.
-Após anos atuando na área da saúde, descobri minha paixão por **programação e tecnologia**.
-
-Atualmente curso **Engenharia de Software** e venho me dedicando intensamente ao aprendizado e desenvolvimento de projetos na área de tecnologia.
-
-Estou em busca da minha **primeira oportunidade como desenvolvedora**, trazendo habilidades importantes desenvolvidas na área da saúde como:
+Estou em busca da minha primeira oportunidade como desenvolvedora, trazendo habilidades importantes desenvolvidas na área da saúde como:
 
 💗 Empatia
 💗 Organização
 💗 Persistência
 💗 Resolução de problemas
-
----
-
-## 🌸 Tecnologias e Ferramentas
-
-💻 Linguagens
-
-* Java
-* Python
-
+🌸 Tecnologias e Ferramentas
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,git,github,spring,html,css&theme=light" alt="Ícones de Java, Python, Git, GitHub, Spring, HTML e CSS" />
+</div>💻 Linguagens
+- Java
+- Python
 🛠️ Ferramentas e Tecnologias
-
-* Git e GitHub
-* Spring Boot
-* APIs REST
-* HTML
-* CSS
-* SQL
-* Banco de Dados
-
+- Git e GitHub
+- Spring Boot
+- APIs REST
+- HTML
+- CSS
+- SQL
+- Banco de Dados
+- IA (Inteligência Artificial)
 🌐 Outros conhecimentos
+- Redes de Computadores
+- Lógica de Programação
+- Metodologias Ágeis (Scrum)
+🎓 Formação
+📚 Engenharia de Software – Estácio (Em andamento)
 
-* Redes de Computadores
-* Lógica de Programação
-* Metodologias Ágeis (Scrum)
-
----
-
-## 🎓 Formação
-
-📚 **Engenharia de Software** – Estácio *(Em andamento)*
-
-🐾 **Medicina Veterinária** – UFERSA
+🐾 Medicina Veterinária – UFERSA
 Conclusão: 2021
 
-🌐 **Técnico em Redes de Computadores** – EEEP Professor Walquer Cavalcante Maia
+🌐 Técnico em Redes de Computadores – EEEP Professor Walquer Cavalcante Maia
 Conclusão: 2014
-
----
-
-## 📚 Cursos e Certificações
-
-* **Formação de Carreira Back-end Java** – Alura *(em andamento)*
-* Bootcamp **Java e QA** – Dio *(concluído)*
-* **Python 3 Mundo 1** – Curso em Vídeo
-* **Python 3 Mundo 2** – Curso em Vídeo *(em andamento)*
-* Bootcamp **Java e Cloud** – Dio
-* **Lógica de Programação em Java** – Javanauta
-* **Lógica de Programação em Java** – AlgaWorks
-* **Banco de Dados e SQL** – AlgaWorks
-* **Gestão Ágil com Scrum** – Udemy
-* **Git e GitHub do básico ao avançado** – Udemy
-
----
-
-## 🤝 Vamos nos conectar
-
+📚 Cursos e Certificações
+- Formação de Carreira Back-end Java – Alura (em andamento)
+- Bootcamp Java e QA – Dio
+- Botcamp Java com IA - Dio
+- Python 3 Mundo 1 – Curso em Vídeo
+- Python 3 Mundo 2 – Curso em Vídeo (em andamento)
+- Bootcamp Java e Cloud – Dio
+- Lógica de Programação em Java – Javanauta
+- Lógica de Programação em Java – AlgaWorks
+- Banco de Dados e SQL – AlgaWorks
+- Gestão Ágil com Scrum – Udemy
+- Git e GitHub do básico ao avançado – Udemy
+🤝 Vamos nos conectar
 💼 LinkedIn
 https://www.linkedin.com/in/nagilathalita/
 
@@ -89,13 +63,6 @@ https://www.linkedin.com/in/nagilathalita/
 https://github.com/nagilathalita
 
 📧 Email
-[nagilathalyta@hotmail.com](mailto:nagilathalyta@hotmail.com)
-
----
-
-<div align="center">
-
-🌸 *Em constante evolução na tecnologia* 🌸
-
-</div>
-
+nagilathalyta@hotmail.com
+<div align="center">🌸 Em constante evolução na tecnologia 🌸
+</div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9A8C2,50:F9DFE9,100:D4AF37&height=95&section=footer" width="100%" alt="Faixa rosa e dourada" />
